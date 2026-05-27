@@ -1,0 +1,34 @@
+Guy Nonkala
+Alternant Data Scientist
+
+Profil
+Etudiant en Master Data Science & Strategie, je developpe des competences en analyse de donnees, Machine Learning et Business Intelligence a travers des projets utilisant Python, SQL, Power BI et des outils de data science.
+
+Disponible a partir de septembre 2026 pour une alternance de 12 a 24 mois.
+
+Competences
+- Python
+- SQL
+- Power BI
+- Machine Learning
+- Pandas
+- Scikit-learn
+- FastAPI
+- Docker
+- ETL / ELT
+- Data Warehouse
+- NLP / FLAN-T5
+- MySQL, PostgreSQL, Oracle, MongoDB
+
+Projets
+- Healthcare Data Warehouse, BI & Machine Learning
+- Deploiement d'un modele NLP FLAN-T5
+- Pipelines de donnees et reporting Power BI
+
+Portfolio
+https://github.com/Snell429
+
+Contact
+guynonkala@gmail.com
+075 365 4370
+Paris, Ile-de-France
