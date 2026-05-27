@@ -19,7 +19,7 @@ Mettre en valeur mon profil en Data Science a travers mon parcours, mes competen
 
 ## Portfolio en ligne
 
-Lien a ajouter apres deploiement.
+https://guy-nonkala.vercel.app
 
 ## Contact
 
