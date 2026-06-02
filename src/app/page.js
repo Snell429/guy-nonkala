@@ -14,8 +14,8 @@ const skillGroups = [
     tools: "Classification, Régression, Random Forest, modélisation prédictive",
   },
   {
-    category: "IA / NLP",
-    tools: "LLM, NLP, FLAN-T5, analyse de données textuelles",
+    category: "IA / GenIA",
+    tools: "LLM (OpenAI, HuggingFace), NLP",
   },
   {
     category: "Data Visualisation",
@@ -32,7 +32,7 @@ const skillGroups = [
   {
     category: "MLOps / Cloud & DevOps",
     tools:
-      "Docker, CI/CD, APIs (FastAPI), Git, GitLab, Jenkins, Ansible, Terraform, notions GCP / AWS / Azure",
+      "Docker, CI/CD, APIs (FastAPI), Git, GitLab, Jenkins, Ansible, Terraform, Linux, notions GCP / AWS / Azure",
   },
   {
     category: "Sécurité des systèmes & réseaux",
