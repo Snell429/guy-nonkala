@@ -22,8 +22,12 @@ const skillGroups = [
     tools: "Power BI, Tableau, Grafana, Excel, suivi KPI",
   },
   {
+    category: "Power Platform",
+    tools: "Power Apps, Power Automate",
+  },
+  {
     category: "Data Engineering",
-    tools: "ETL / ELT, pipelines, Data Warehouse, Data Lake, data quality",
+    tools: "ETL, Pipelines, Data Warehouse, Data Lake, APIs",
   },
   {
     category: "Big Data",
@@ -32,7 +36,7 @@ const skillGroups = [
   {
     category: "MLOps / Cloud & DevOps",
     tools:
-      "Docker, CI/CD, APIs (FastAPI), Git, GitLab, Jenkins, Ansible, Terraform, Linux, notions GCP / AWS / Azure",
+      "Docker, CI/CD, Git, GitLab, Linux, Jenkins, Ansible, Terraform, GCP / AWS / Azure, GitHub Actions",
   },
   {
     category: "Sécurité des systèmes & réseaux",
