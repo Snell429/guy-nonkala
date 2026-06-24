@@ -419,7 +419,7 @@ export default async function Home() {
           </h2>
           <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-zinc-600">
             Disponible dès septembre 2026 pour une alternance en Data Science,
-            Machine Learning et Business Intelligence.
+            Machine Learning, Data Analyst et IA.
           </p>
           <div className="mt-10 flex flex-col justify-center gap-4 sm:flex-row">
             <a
